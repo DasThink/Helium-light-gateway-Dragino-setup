@@ -1,7 +1,6 @@
 # Light Hotspot Using Dragino Gateway and Helium Network
 
-Video tutorial : [https://youtu.be/ULMnPckZp1M](https://youtu.be/OuujPVK8f3U)
-
+## Video tutorial : 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OuujPVK8f3U/0.jpg)](https://www.youtube.com/watch?v=OuujPVK8f3U)
 
 ![alt text](https://github.com/akarsh98/Helium-light-gateway-Dragino-setup/blob/main/Helium/2.JPG)
