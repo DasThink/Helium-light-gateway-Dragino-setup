@@ -2,6 +2,8 @@
 
 Video tutorial : [https://youtu.be/ULMnPckZp1M](https://youtu.be/OuujPVK8f3U)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OuujPVK8f3U/0.jpg)](https://www.youtube.com/watch?v=OuujPVK8f3U)
+
 ![alt text](https://github.com/akarsh98/Helium-light-gateway-Dragino-setup/blob/main/Helium/2.JPG)
 
 In this project, we are going to create a Light Hotspot using the Dragino LPS8 Gateway and Helium Network. The Light Hotspot is a Packet forwarder that replicates the action of a real miner but is not capable of mining Helium Tokens based on the Proof of Coverage method. This thing is in beta version now but in the future Helium is planning to incentivize the Hotspots according to the data credits they spend and other factors as well. Nothing is finalized yet and is subject to change but if it is finalized then you might be able to mine Helium tokens by creating your own Packet Forwarder.
